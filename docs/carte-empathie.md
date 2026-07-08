@@ -1,7 +1,7 @@
 # Carte d'empathie — Omar Ba
-**Équipe :** GET409-Mozotech
+**Équipe :** GET409-YoungImmo
 **Séance :** S1 — Design Thinking · Empathize & Define
-**Projet :** Application de gestion immobilière — Marché locatif étudiant à Dakar
+**Projet :** YoungImmo — Marché locatif étudiant à Dakar
 **Date :** 08/07/2026
 
 ---
